@@ -22,7 +22,5 @@ MYMETA.yml
 nytprof.out
 nytprof/
 pm_to_blib
-*.md
-*.conf
 !README.md
 !.gitkeep
